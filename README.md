@@ -48,9 +48,9 @@ Link the Bottom bar accordingly.
 
 Please contact: domenico@orangedigital.com.au if any questions.
 
-![App Home](https://bitbucket.org/orangedigital/od-react-challege/raw/bce74dbb748d91a5b334f1b0035bea4ce08e2260/app-page-figma.png)
-![App Expenses](https://bitbucket.org/orangedigital/od-react-challege/raw/bce74dbb748d91a5b334f1b0035bea4ce08e2260/app-page-figma.png)
-![App Espenses all Categories](https://bitbucket.org/orangedigital/od-react-challege/raw/bce74dbb748d91a5b334f1b0035bea4ce08e2260/app-page-figma.png)
+![App Home](https://bitbucket.org/orangedigital/od-react-native-app-challenge/raw/a24689592b271830103f747fb9fd4b4e88df3952/assets/home.png)
+![App Expenses](https://bitbucket.org/orangedigital/od-react-native-app-challenge/raw/a24689592b271830103f747fb9fd4b4e88df3952/assets/expenses.png)
+![App Espenses all Categories](https://bitbucket.org/orangedigital/od-react-native-app-challenge/raw/a24689592b271830103f747fb9fd4b4e88df3952/assets/expenses%20all%20categories.png)
 
 
 
