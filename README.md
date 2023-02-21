@@ -38,9 +38,9 @@ This code challenge will test your:
 
 ### Writing your code
 
-Please look at the layout png image included in the assets folder of this repo. Think how to structure the React-Native components structure and how to set the navigation, the screens and style them to look as the same as the screenshots.
+Please direct your attention to the layout of the png images included in the assets folder of our repository. It is imperative that you carefully consider how to structure the React-Native components in order to ensure that the screens are properly navigable and visually aligned with the provided screenshots.
 
-You are encouraged to use and suggest any library of your choice to implement the styles and the CSS for this challenge.
+To achieve this, I encourage you to leverage your creativity and suggest any library of your choosing to implement the necessary styles and CSS for this challenge. Our goal is to deliver a high-quality user experience, and we are confident in your ability to achieve this objective through your technical expertise and resourcefulness.
 
 The app will have 3 pages as per image below.
 
@@ -52,7 +52,7 @@ Please contact: domenico@orangedigital.com.au if any questions.
 ![App Expenses](https://bitbucket.org/orangedigital/od-react-native-app-challenge/raw/a24689592b271830103f747fb9fd4b4e88df3952/assets/expenses.png)
 ![App Espenses all Categories](https://bitbucket.org/orangedigital/od-react-native-app-challenge/raw/a24689592b271830103f747fb9fd4b4e88df3952/assets/expenses%20all%20categories.png)
 
-
+The challenge should take around 8 hours of your time. Have fun and good luck.
 
 ## Updating to New Releases
 
