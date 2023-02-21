@@ -46,13 +46,15 @@ The app will have 3 pages as per image below.
 
 Link the Bottom bar accordingly.
 
+The challenge should take around 8 hours of your time. Have fun and good luck.
+
 Please contact: domenico@orangedigital.com.au if any questions.
 
 ![App Home](https://bitbucket.org/orangedigital/od-react-native-app-challenge/raw/a24689592b271830103f747fb9fd4b4e88df3952/assets/home.png)
 ![App Expenses](https://bitbucket.org/orangedigital/od-react-native-app-challenge/raw/a24689592b271830103f747fb9fd4b4e88df3952/assets/expenses.png)
 ![App Espenses all Categories](https://bitbucket.org/orangedigital/od-react-native-app-challenge/raw/a24689592b271830103f747fb9fd4b4e88df3952/assets/expenses%20all%20categories.png)
 
-The challenge should take around 8 hours of your time. Have fun and good luck.
+
 
 ## Updating to New Releases
 
