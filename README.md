@@ -1,3 +1,5 @@
+NB. Please note that it is mandatory to host your code on your personal repository. Upon completing the challenge, kindly push your commits to your repository and share the corresponding link with us.
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/expo/create-react-native-app/blob/main/README.md).
